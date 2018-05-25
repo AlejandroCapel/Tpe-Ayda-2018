@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1525981904 source:c:\users\familia\documents\unicen\algoritmosi\tpe\proyectotpe\main.cpp
+	<iostream>
+	<fstream>
+
+1525981904 
+
+1527182391 source:/home/hach/Documentos/AYDA/Tp 2018/ProyectoTPE/main.cpp
+	<iostream>
+	<fstream>
+	"include/arbol.h"
+	"include/Lista.h"
+
+1527118791 /home/hach/Documentos/AYDA/Tp 2018/ProyectoTPE/include/arbol.h
+	<iostream>
+
+1527182019 /home/hach/Documentos/AYDA/Tp 2018/ProyectoTPE/include/Lista.h
+
+1527174486 source:c:\users\alexz\desktop\proyectotpe-20180525t141052z-001\proyectotpe\main.cpp
+	<iostream>
+	<fstream>
+	"include/arbol.h"
+	"include/Lista.h"
+	<ctime>
+
+1527259537 c:\users\alexz\desktop\proyectotpe-20180525t141052z-001\proyectotpe\include\arbol.h
+	<iostream>
+	"Lista.h"
+
+1527174486 c:\users\alexz\desktop\proyectotpe-20180525t141052z-001\proyectotpe\include\lista.h
+
+1527258314 source:c:\users\alexz\desktop\proyectotpe-20180525t141052z-001\proyectotpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+
